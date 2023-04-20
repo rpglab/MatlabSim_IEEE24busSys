@@ -12,13 +12,14 @@ This is for our TPWRS paper: *Security-Constrained Unit Commitment Considering L
 
 
 ## Citation:
-If you use any module/data here for your work, please cite the following papers as your reference:
+If you use any module/data here for your work, please cite the following papers as your references:
 
-Mingjian Tuo and Xingpeng Li, “Security-Constrained Unit Commitment Considering Locational Frequency Stability in Low-Inertia Power Grids”, *IEEE Transactions on Power Systems*, Oct. 2022.
+1. Mingjian Tuo and Xingpeng Li, “Long-term Recurrent Convolutional Networks-based Inertia Estimation using Ambient Measurements”, *IEEE IAS Annual Meeting*, Detroit, MI, USA, Oct. 2022.
+2. Mingjian Tuo and Xingpeng Li, “Machine Learning Assisted Inertia Estimation using Ambient Measurements”, *IEEE Transactions on Industry Applications*, Apr. 2023.
 
-(DOI: 10.1109/TPWRS.2022.3215915)
+Paper1 website: <a class="off" href="/papers/MJ-Tuo-PGS-LRCN/"  target="_blank">https://rpglab.github.io/papers/MJ-Tuo-PGS-LRCN/</a>
 
-Paper website: <a class="off" href="/papers/MJ-Tuo_SCUC_LFS/"  target="_blank">https://rpglab.github.io/papers/MJ-Tuo_SCUC_LFS/</a>
+Paper2 website: <a class="off" href="/papers/MJ-Tuo_ML-Inertia-Est/"  target="_blank">https://rpglab.github.io/papers/MJ-Tuo_ML-Inertia-Est/</a>
 
 
 ## Acknowledgment:
