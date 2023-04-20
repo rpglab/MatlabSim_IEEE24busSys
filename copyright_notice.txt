@@ -2,7 +2,9 @@
 ## Git page link: https://github.com/rpglab/MatlabSim_IEEE24busSys
 
 
-This work is modified based on Patrice Brunelle's benchmark model whose copyright notice is copied below. The modifications we made are as follows:
+This work is modified based on Patrice Brunelle's benchmark model whose copyright notice is copied below. 
+
+The modifications we made are as follows:
 (1) Nodes and lines are defined based on IEEE 24-bus system;
 (2) Generators are increased from 10 to 35; basic parameters are defined in 'IEEE24_bus.m';
 (3) Generator models are extended based on the benchmark case;
