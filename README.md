@@ -4,8 +4,6 @@ This Matlab Simulink module can be used to conduct time-domain simulations on th
 * 'IEEE24bus_simplified.slx': simulink model of Patrice Brunelle's work as benchmark.
 * 'IEEE24bus_simplified_benchmark.m': generators settings of P. Brunelle's benchmark model.
 
-This is for our TPWRS paper: *Security-Constrained Unit Commitment Considering Locational Frequency Stability in Low-Inertia Power Grids*.
-
 
 ##### Test system:
 * The IEEE 24-bus power system used here is one area out of the three-area system modified IEEE RTS-96 reliability test system (73-bus). The original reference is: "The IEEE Reliability Test System-1996. A report prepared by the Reliability Test System Task Force of the Application of Probability Methods Subcommittee" and link is <a class="" target="_blank" href="https://ieeexplore.ieee.org/document/780914">here</a>. 
